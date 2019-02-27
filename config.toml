@@ -6,7 +6,7 @@ theme = "hugo-resume"
 [params]
     firstName = "Nipitpon"
     lastName = "Chantada"
-    address = "Bangkok, Thailand"
+    address = "NPPi3enz"
     phone = "1-555-555-1234"
     contactNote = "Dev Tools Engineer"
     profileImage = "img/avatar.jpg"
