@@ -1,20 +1,26 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"PHP Developer",
+        "company":"EGG Digital Co, Ltd.",
+        "summary":"I am backend developer. Develop POS System.",
+        "range":"November 2018 - Present"
     },
     {
         "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "company":"dFusion Co, Ltd.",
+        "summary":"I am  frontend and backend developer. Not only creating website or minisite to surve marketing campaign, such as photo booth or ticketing system, but also be part of business development such as B2B affiliate system  and lead evaluator system. I have worked with big name company like TOYOTA, BMW, Lin sugar, Swatch.",
+        "range":"August 2017 - October 2018"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Web Developer",
+        "company":"SHIPPOP Co, Ltd.",
+        "summary":"I have developed both frontend and backend systems. . to make the user more comfortable connecting with new carriers.",
+        "range":"July 2016 - July 2017"
+    },
+    {
+        "role":"Web Developer (Intern)",
+        "company":"Dek-D Co, Ltd.",
+        "summary":"I am responsible for research and develop UI/UX of visual novel system.",
+        "range":"April 2014 - May 2014"
     }
 ]

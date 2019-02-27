@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>My nickname is Benz. I’m 25 years old. I’m working in Bangkok for finding technology-related big project management experiences and being a skillful developer.</p>
