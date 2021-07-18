@@ -1,0 +1,46 @@
+[
+    {
+        "grouping":"Languages, Operating Systems & Tools",
+        "skills":[ 
+            {"name": "Java", "icon": "devicon-java-plain"},
+            {"name": "Python", "icon": "devicon-python-plain"},
+            {"name": "git", "icon": "devicon-git-plain"},
+            {"name": "linux", "icon": "devicon-linux-plain"},
+            {"name": "bash", "icon": "devicon-bash-plain"},
+            {"name": "php", "icon": "devicon-php-plain"},
+            {"name": "jQuery", "icon": "devicon-jquery-plain"},
+            {"name": "Javascript", "icon": "devicon-javascript-plain"},
+            {"name": "NodeJS", "icon": "devicon-nodejs-plain"},
+            {"name": "GO", "icon": "devicon-go-plain"}
+        ]
+    },
+    {
+        "grouping":"Frontend & Backend Framework",
+        "skills":[
+            {"name": "Bootstrap", "icon": "devicon-bootstrap-plain"},
+            {"name": "VueJS", "icon": "devicon-vuejs-plain"},
+            {"name": "Wordpress", "icon": "devicon-wordpress-plain"},
+            {"name": "Laravel", "icon": "devicon-laravel-plain"},
+            {"name": "Codeigniter", "icon": "devicon-codeigniter-plain"}
+        ]
+    },
+    {
+        "grouping":"Platform Development & Administration",
+        "skills":[
+            {"name": "Bitbucket", "icon": "devicon-bitbucket-original"},
+            {"name": "NGINX", "icon": "devicon-nginx-original"},
+            {"name": "MySQL", "icon": "devicon-mysql-plain"},
+            {"name": "Jenkins", "icon": "devicon-jenkins-line"}
+        ]
+    },
+    {
+      "grouping":"Containers & Cloud",
+        "skills":[
+            {"name":"Docker", "icon": "devicon-docker-plain","link":"https://docker.com"},
+            {"name":"AWS", "icon": "devicon-amazonwebservices-original", "link":"https://aws.amazon.com"},
+            {"name":"Google Cloud", "icon": "devicon-googlecloud-plain", "link":"https://cloud.google.com"},
+            {"name":"Digitalocean", "icon": "devicon-digitalocean-plain"," link":"https://digitalocean.com"}
+        ]
+    }
+  ]
+  
