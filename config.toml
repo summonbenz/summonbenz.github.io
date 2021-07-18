@@ -1,11 +1,11 @@
 theme = "showfolio"
 languageCode = "en-us"
-baseurl = "https://localhost:1313"
+baseurl = "http://nppi3enz.github.io"
 title = "NPPiProfile"
 
 
 [params]
-  name = "Showfolio1 Theme"
+  name = "Showfolio Theme"
   description = "Modern portfolio theme for your Hugo site."
   author = "Nipitpon Chantada"
   authorEmail = "name@example.com"
