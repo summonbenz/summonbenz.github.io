@@ -5,14 +5,14 @@ title = "NPPiProfile"
 
 
 [params]
-  name = "Showfolio1 Theme"
+  name = "Showfolio Theme"
   description = "Modern portfolio theme for your Hugo site."
   author = "Nipitpon Chantada"
   authorEmail = "name@example.com"
   authorImage = "/img/pic.jpg"
   autoDarkMode = true
 
-  copyright = "Copyright © 2021 - John Doe · All rights reserved"
+  copyright = "Copyright © 2021 - NPPi3enz · All rights reserved"
   favicon = "favicon.ico"
 
 [params.homepage]
