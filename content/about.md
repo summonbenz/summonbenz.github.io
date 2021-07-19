@@ -1,26 +1,25 @@
 ---
-author: John Doe
+author: Nipitpon Chantada
 title: About Me
-date: 2021-04-24
+date: 2021-07-19
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about-us", "contact"]
 type: about
 ---
+## Education
+**Chulalongkorn University, Bangkok** *- Computer Science*  
+2012 - 2016   
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+**Satit Piboonbumpen Demonstration School Burapha University, Chonburi** *- High School*  
+2000 - 2012   
 
-Hugo makes use of a variety of open source projects including:
+## Awards
+- **National Software Contest 2015** passed the first Round
+- **Winner prize: Young Webmaster Camp 11** (Web Content)
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Hobbies
+- Editing Film
+- Graphic Design
+- Photography
+- Writing Novel
+- Reviewing Movie
