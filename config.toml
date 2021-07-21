@@ -32,25 +32,25 @@ title = "NPPiProfile"
   name = "EGG Digital Co, Ltd."
   role = "PHP Developer"
   duration = "November 2018 - Present"
-  description = "I am backend developer. Develop point-of-sale System for work in restaurant, retail. Create until web portal to backend system for use in mobile application."
+  description = "Develop a point-of-sale system for usage in restaurants and retail stores. We created both the front-end to integrate the web portal and the back-end to connect to mobile applications."
 
 [[params.homepage.resume.work]]
   name = "Dfusion Co, Ltd."
   role = "Developer"
   duration = "August 2017 - October 2018"
-  description = "I am frontend and backend developer. Not only creating website or minisite to surve marketing campaign, such as photo booth or ticketing system, but also be part of business development such as B2B affiliate system and lead evaluator system. I have worked with big name company like TOYOTA, BMW, Lin sugar, Swatch."
+  description = "I am a front-end and back-end developer. Not only creating websites or minisite to serve marketing campaigns, such as photo booths or ticketing system but also be part of business development such as B2B affiliate system and lead evaluator system. I have worked with big-name companies like TOYOTA, BMW, Lin sugar, Swatch."
 
 [[params.homepage.resume.work]]
   name = "SHIPPOP Co, Ltd."
   role = "Web Developer"
   duration = "July 2016 - July 2017"
-  description = "I have developed both frontend and backend systems. To make the user more comfortable connecting with new carriers."
+  description = "I have developed both front-end and back-end systems. To make the user more comfortable connecting with new carriers."
 
 [[params.homepage.resume.work]]
   name = "DEK-D Co, Ltd."
   role = "Web Developer (Intern)"
   duration = "April 2014 - May 2014"
-  description = "I am responsible for research and develop UI/UX of visual novel system."
+  description = "I am responsible for the research and development of the UI/UX of visual novel systems."
 
 [params.homepage.social]
   twitter = ""
