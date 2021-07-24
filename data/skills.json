@@ -11,7 +11,7 @@
             {"name": "jQuery", "icon": "devicon-jquery-plain"},
             {"name": "Javascript", "icon": "devicon-javascript-plain"},
             {"name": "NodeJS", "icon": "devicon-nodejs-plain"},
-            {"name": "GO", "icon": "devicon-go-plain"}
+            {"name": "GO", "icon": "devicon-go-plain", "link": "/img/cergolang.jpeg"}
         ]
     },
     {
