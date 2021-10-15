@@ -8,7 +8,7 @@ title = "NPPiProfile"
   name = "Showfolio Theme"
   description = "Modern portfolio theme for your Hugo site."
   author = "Nipitpon Chantada"
-  authorEmail = "name@example.com"
+  authorEmail = "nipitpon.ch@hotmail.com"
   authorImage = "/img/pic.jpg"
   autoDarkMode = true
 
@@ -29,7 +29,7 @@ title = "NPPiProfile"
   skills = ["Product Development"]
 
 [[params.homepage.resume.work]]
-  name = "EGG Digital Co, Ltd."
+  name = "Ascend Commerce Co, Ltd."
   role = "PHP Developer"
   duration = "November 2018 - Present"
   description = "Develop a point-of-sale system for usage in restaurants and retail stores. We created both the front-end to integrate the web portal and the back-end to connect to mobile applications."
