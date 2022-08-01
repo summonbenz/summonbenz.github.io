@@ -29,9 +29,15 @@ title = "NPPiProfile"
   skills = ["Product Development"]
 
 [[params.homepage.resume.work]]
+  name = "K-Soft Co, Ltd."
+  role = "Software Engineer"
+  duration = "April 2022 - Present"
+  description = "Maintanance and develop back-end system for integrate K-Plus applications."
+
+[[params.homepage.resume.work]]
   name = "Ascend Commerce Co, Ltd."
   role = "PHP Developer"
-  duration = "November 2018 - Present"
+  duration = "November 2018 - March 2022"
   description = "Develop a point-of-sale system for usage in restaurants and retail stores. We created both the front-end to integrate the web portal and the back-end to connect to mobile applications."
 
 [[params.homepage.resume.work]]
